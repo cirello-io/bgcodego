@@ -1,0 +1,4 @@
+github.com/currantlabs/goheatshrink v0.0.0-20160222053524-0b7b0de0f241 h1:NbIDZ14VL61njEJchRQzyfovfFy9thspBHWfYdM3mGM=
+github.com/currantlabs/goheatshrink v0.0.0-20160222053524-0b7b0de0f241/go.mod h1:YSLGCYxcI2aOUb9TxbhBeXRMeDAQZaZvEBt5Eceeipw=
+github.com/google/go-cmp v0.6.0 h1:ofyhxvXcZhMsU5ulbFiLKl/XBFqE1GSq7atu8tAmTRI=
+github.com/google/go-cmp v0.6.0/go.mod h1:17dUlkBOakJ0+DkrSSNjCkIjxS6bF9zb3elmeNGIjoY=
